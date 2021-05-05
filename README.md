@@ -46,7 +46,7 @@ To start use you need to install [Rainmeter](https://www.rainmeter.net/), dowloa
 ```powershell
 cd ~\Documents\Rainmeter\Skins
 ```
-> 💡 In my skin files I use "[Cascadia Mono](https://github.com/microsoft/cascadia-code)" font. Esy way to install it:
+> 💡 In my skin files I use "[Cascadia Mono](https://github.com/microsoft/cascadia-code)" font. Easy way to install it from [Chocolatey](https://community.chocolatey.org/):
 >```powershell
 >choco install cascadiamono
 >```
