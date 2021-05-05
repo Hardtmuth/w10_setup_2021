@@ -37,7 +37,7 @@ To start use you need to install [AutoHotKey](https://www.autohotkey.com/), dowl
 
 In RainMeter I use four skins:
 
-1. _**Winky**_ minimalist system monitor widget based on ...
+1. _**Winky**_ minimalist system monitor widget based on [**taboo_Vision Skin Rainmeter**](https://www.deviantart.com/jamien-price/art/taboo-Vision-Skin-Rainmeter-122032577)
 2. _**ShortCut_note**_ minimalist note to use custom keyboard shortcuts
 3. Watches and Volume by 
 4. Crypto and Dollar widget
