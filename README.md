@@ -83,17 +83,22 @@ Another soft in list You may to install, enable autostart and use by default or 
    
 * For Light mode used "Noctis Lux":
 
-  _**KEYWORD**_ part orig color is: **#ff5792**, my custom color is: **#c41e3a** and "**_source.powershell_**" parameter move to "_**ANNOTATION**_" part.
+  * _**KEYWORD**_ part orig color is: **#ff5792**, my custom color is: **#c41e3a**
+  * _**editor.selectionBackground**_ orig: _**#ade2eb77**_ custom: _**#9a9a9a66**_ 
+  * _**editor.selectionHighlightBackground**_ orig: _**#14a5ff33**_ custom: _**#9a9a9a66**_ 
+  * _**editor.selectionHighlightBorder**_ orig: _**#14a5ff00**_ custom: _**#9a9a9a00**_ 
+  * _**editor.lineHighlightBackground**_ orig: _**#d1ebefcc**_ custom: _**#c0c0c066**_ 
+  * "**_source.powershell_**" parameter move to "_**ANNOTATION**_" part.
 
 * For Dark mode used "Noctis Minimus":
 
   _**KEYWORD**_ part orig color is: **#af5978**, my custom color is: **#a87084** and "**_source.powershell_**" parameter move to "_**ANNOTATION**_" part.
 
-2. Icon theme is [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) with _"helium-icon-theme.folders.color": "**#F0B129**"_
+1. Icon theme is [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) with _"helium-icon-theme.folders.color": "**#F0B129**"_
 
-3. Product Icons is [Carbon](https://github.com/antfu/vscode-icons-carbon)
+2. Product Icons is [Carbon](https://github.com/antfu/vscode-icons-carbon)
 
-4. Default Font is [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) and some custom settings: 
+3. Default Font is [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) and some custom settings: 
   * Size: 14
   * Ligature: true
   * Weight: 350
