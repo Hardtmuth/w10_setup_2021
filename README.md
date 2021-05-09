@@ -50,8 +50,10 @@ In RainMeter I use four skins:
 
 1. _**Winky**_ minimalist system monitor widget based on [**taboo_Vision Skin Rainmeter**](https://www.deviantart.com/jamien-price/art/taboo-Vision-Skin-Rainmeter-122032577)
 2. _**ShortCut_note**_ minimalist note to use custom keyboard shortcuts
-3. Watches and Volume by 
-4. Crypto and Dollar widget
+   
+3. Aditional: Crypto and Dollar widget in same style "_**CourceTicker**_"
+
+![CourceTicker](Screenshots/CourceTicker.jpg)
    
 To start use you need to install [Rainmeter](https://www.rainmeter.net/), dowload needed widget files and add them in skins directory. By default it in:
 ```powershell
