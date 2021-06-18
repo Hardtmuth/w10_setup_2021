@@ -31,3 +31,6 @@ return
 !w::
 Run, "C:\Program Files (x86)\TickTick\TickTick.exe"
 return
+RControl::
+Send, +{F10}
+return
