@@ -50,7 +50,8 @@ To start use you need to install [AutoHotKey](https://www.autohotkey.com/), dowl
 In RainMeter I use four skins:
 
 1. _**Winky**_ minimalist system monitor widget based on [**taboo_Vision Skin Rainmeter**](https://www.deviantart.com/jamien-price/art/taboo-Vision-Skin-Rainmeter-122032577)
-2. _**ShortCut_note**_ minimalist note to use custom keyboard shortcuts
+2. _**ShortCut_note**_ minimalist note to use custom keyboard shortcuts.
+> 💡 Some shortcuts setting ups in AHK script **ShortCuts.ahk**, some in [**PowerToys**](https://github.com/microsoft/PowerToys), and  some in ToDo Manager [**TickTick**](https://ticktick.com/)
    
 3. Aditional: Crypto and Dollar widget in same style "_**CourceTicker**_"
 
