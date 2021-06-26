@@ -5,6 +5,7 @@
 [<img src="Screenshots/Desktop_with_apps.jpg" width="600"/>](Screenshots/Desktop_with_apps.jpg)
 [<img src="Screenshots/Power_toys_Launcher.jpg" width="600"/>](Screenshots/Power_toys_Launcher.jpg)
 [<img src="Screenshots/Rainmeter_skins.jpg" width="100"/>](Screenshots/Rainmeter_skins.jpg)
+[<img src="Screenshots/Rainmeter_skins_withBG.jpg" width="200">](Rainmeter_skins_withBG.jpg)
 [<img src="Screenshots/Start_Menu_change_color.gif" width="200"/>](Screenshots/Start_Menu_change_color.gif)
 [<img src="Screenshots/Bottom_pannel.jpg" width="600"/>](Screenshots/Bottom_pannel.jpg)
 
