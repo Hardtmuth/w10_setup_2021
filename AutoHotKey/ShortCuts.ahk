@@ -1,8 +1,5 @@
-﻿#e::
-Run, files
-return
-#/::
-Run, "C:\Users\abram\AppData\Local\Programs\Microsoft VS Code\code.exe"
+﻿#/::
+Run, "C:\Users\abram\AppData\Local\Programs\Microsoft VS Code Insiders\Code - Insiders.exe"
 return
 #\::
 Run, wt
@@ -26,7 +23,7 @@ return
 Run, wt -p "Far Manager"
 return
 !q::
-Run, "C:\Users\abram\AppData\Local\Mailspring\mailspring.exe"
+Run, "C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20090.0_x64__8wekyb3d8bbwe\HxOutlook.exe"
 return
 !w::
 Run, "C:\Program Files (x86)\TickTick\TickTick.exe"

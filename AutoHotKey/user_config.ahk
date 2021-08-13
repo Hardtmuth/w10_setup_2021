@@ -27,10 +27,10 @@
 !Numpad3::switchDesktopByNumber(3)
 !Numpad4::switchDesktopByNumber(4)
 
-+!1::MoveCurrentWindowToDesktop(1)
-+!2::MoveCurrentWindowToDesktop(2)
-+!3::MoveCurrentWindowToDesktop(3)
-+!4::MoveCurrentWindowToDesktop(4)
+^!1::MoveCurrentWindowToDesktop(1)
+^!2::MoveCurrentWindowToDesktop(2)
+^!3::MoveCurrentWindowToDesktop(3)
+^!4::MoveCurrentWindowToDesktop(4)
 
 !Right::MoveCurrentWindowToRightDesktop()
 !Left::MoveCurrentWindowToLeftDesktop()
