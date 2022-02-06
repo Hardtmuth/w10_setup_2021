@@ -1,184 +1,291 @@
 {
-  "workbench.startupEditor": "newUntitledFile",
-  "themeswitcher.utcOffset": 3,
-  "themeswitcher.mappings": [
-      {
-          "time": "08:00",
-         "theme": "Noctis Lux"
-      },
-      {
-          "time": "16:00",
-          "theme": "Noctis Minimus"
-      }
-  ],
-  "workbench.colorCustomizations": {
-      "activityBar.background": "#1b2932",
-      "activityBar.foreground": "#96a8b6",
-      "titleBar.activeBackground": "#1b2932",
-      "titleBar.activeForeground": "#c5cdd3",
-      "sideBar.background":  "#17232b",
-      "sideBar.foreground": "#96a8b6",
-      "sideBar.border": "#101213",
-      "sideBarSectionHeader.background": "#202e37",
-      "sideBarSectionHeader.border": "#101213",
-      "activityBar.border": "#101213",
-      "titleBar.border": "#101213",
-      "statusBar.background": "#175DDC",
-      "statusBar.foreground": "#c5cdd3",
-      "terminal.background": "#0e1920",
-      "terminal.border": "#101213",
-      "terminal.foreground":"#c5cdd3",
-      "list.activeSelectionBackground": "#2c414e",
-      "list.activeSelectionForeground": "#fafafa",
-      "list.inactiveSelectionForeground": "#fafafa",
-      "list.inactiveSelectionBackground": "#2F363D"
-  },
-  "workbench.iconTheme": "helium-icon-theme",
-  "helium-icon-theme.folders.color": "#F0B129",
-  "workbench.statusBar.visible": true,
-  "powershell.integratedConsole.showOnStartup": false,
-  "powershell.integratedConsole.focusConsoleOnExecute": false,
-  "git.autofetch": true,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.renderControlCharacters": true,
-  "workspaceExplorer.workspaceStorageDirectory": "c:\\Users\\admin\\OneDrive - RDB24\\Workplace",
-  "todo-tree.tree.showScanModeButton": false,
-  "projectManager.git.baseFolders": [
-      "C:\\Users\\abram\\Documents\\GitHub",
-      "C:\\GitHub"
-  ],
-  "python.insidersChannel": "off",
-  "remote.SSH.remotePlatform": {
-      "prom": "linux",
-      "prom.rdb24.com": "linux",
-      "elk.rdb24.com": "linux",
-      "192.168.1.36": "linux",
-      "WSE": "linux",
-      "AT-Monitor": "linux",
-      "temp_Bitrix": "linux"
-  },
-  "git.ignoreLegacyWarning": true,
-  "todo-tree.general.statusBar": "current file",
-  "todo-tree.regex.enableMultiLine": true,
-  "todo-tree.general.tags": [
-      "BUG",
-      "HACK",
-      "TODO",
-      "FIX",
-      "HiW",
-      "ADDs",
-      "WTF",
-      "[ ]"
-  ],
-  "todo-tree.highlights.customHighlight": {
-      "TODO": {
-          "icon": "$(gist)",
-          "type": "text",
-          "foreground": "gray",
-          "background": "blue",
-          "opacity": 50
-      },
-      "[ ]": {
-          "icon": "$(list-unordered)",
-          "type": "text",
-          "foreground": "gray",
-          "background": "blue",
-          "opacity": 50
-      },
-      "HiW": {
-          "icon": "$(diff-added)",
-          "type": "text",
-          "foreground": "black",
-          "background": "orange",
-          "opacity": 50
-      },
-      "WTF": {
-          "icon": "$(diff-added)",
-          "type": "text",
-          "foreground": "gray",
-          "background": "orange",
-          "opacity": 50
-      },
-      "BUG": {
-          "icon": "$(bug)",
-          "type": "text",
-          "foreground": "black",
-          "background": "yellow"
-      },
-      "FIX": {
-          "icon": "$(flame)",
-          "type": "text",
-          "foreground": "black",
-          "background": "red"
-      },
-      "ADDs": {
-          "icon": "$(diff-added)",
-          "type": "text",
-          "foreground": "black",
-          "background": "green"
-      }
-  },
-  "projectManager.any.ignoredFolders": [
-      "node_modules",
-      "out",
-      "typings",
-      "test"
-  ],
-  "projectManager.any.baseFolders": [
-  
-  ],
-  "mssql.connections": [],
-  "window.menuBarVisibility": "toggle",
-  "editor.fontFamily": " JetBrains Mono, Cascadia Code, Consolas, 'Courier New', monospace",
-  "editor.fontLigatures": true,
-  "editor.fontWeight": "300",
-  "workbench.colorTheme": "Noctis Lux",
-  "window.zoomLevel": 0,
-  "jest.enableInlineErrorMessages": true,
-  "workbench.productIconTheme": "icons-carbon",
-  "workbench.editorAssociations": [
-      {
-          "viewType": "jupyter.notebook.ipynb",
-          "filenamePattern": "*.ipynb"
-      }
-  ],
-  "terminal.integrated.rendererType": "dom",
-  "glassit.alpha": 240,
-  "liveshare.presence": false,
-  "vscodeGoogleTranslate.preferredLanguage": "Russian",
-  "editor.tabSize": 2,
-  "workbench.tree.indent": 15,
-  "dart.previewFlutterUiGuides": true,
-  "dart.previewFlutterUiGuidesCustomTracking": true,
-  "filesize.displayInfoOnTheRightSideOfStatusBar": true,
-  "filesize.showGzip": false,
-  "filesize.useDecimal": true,
-  "todo-tree.filtering.scopes": [
-  "!cwd"
-  ],
-  "todo-tree.highlights.enabled": true,
-  "powershell.powerShellDefaultVersion": "PowerShell (x64)",
-  "editor.minimap.enabled": false,
-  "[json]": {
-      "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "colorize.include": [
-      "**/*.css",
-      "**/*.scss",
-      "**/*.sass",
-      "**/*.less",
-      "**/*.styl"
-  ],
-  "colorize.languages": [
-      "css",
-      "sass",
-      "scss",
-      "less",
-      "postcss",
-      "sss",
-      "stylus",
-      "xml",
-      "svg",
-      "json"
-  ]
+    "workbench.startupEditor": "newUntitledFile",
+    "themeswitcher.utcOffset": 3,
+    //"themeswitcher.mappings": [
+    //    {
+    //        "time": "08:00",
+    //       "theme": "Noctis Lux",
+    //    },
+    //    {
+    //        "time": "16:00",
+    //        "theme": "Noctis Minimus",
+    //    },
+    //], 
+    "typescript.tsserver.watchOptions": {
+
+    },
+    "workbench.colorCustomizations": {
+        //"sideBar.foreground": "#868686",
+        //"editor.background": "#191919"
+    },
+    
+    "workbench.iconTheme": "helium-icon-theme",
+    //"helium-icon-theme.folders.color": "#FFCA28",
+    "helium-icon-theme.folders.color": "#F0B129",
+    //"terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "powershell.integratedConsole.showOnStartup": false,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.renderControlCharacters": true,
+    "workspaceExplorer.workspaceStorageDirectory": "D:\\mega\\Workplace",
+    "todo-tree.tree.showScanModeButton": false,
+    //"lmptm.browserPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    //"lmptm.incognitoMode": false,
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\abram\\Documents\\GitHub",
+        "C:\\GitHub"
+    ],
+    "python.insidersChannel": "off",
+    "remote.SSH.remotePlatform": {
+        "prom": "linux",
+        "prom.rdb24.com": "linux",
+        "elk.rdb24.com": "linux",
+        "192.168.1.36": "linux",
+        "WSE": "linux",
+        "AT-Monitor": "linux",
+        "temp_Bitrix": "linux",
+        "AT-Monitor-GE10": "linux",
+        "Nextcloud_local": "linux",
+        "prom.atkom.host": "linux",
+        "192.168.1.48": "linux"
+    },
+    "git.ignoreLegacyWarning": true,
+    //"editor.codeActionsOnSave": null,
+    //"docker.commands.attach": null,
+    "todo-tree.general.statusBar": "current file",
+    "todo-tree.regex.enableMultiLine": true,
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "TODO",
+        "FIX",
+        "HiW",
+        "ADDs",
+        "WTF",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.general.tagGroups": {
+
+    
+    },
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "$(gist)",
+            "type": "text",
+            "foreground": "gray",
+            "background": "blue",
+            "opacity": 50,
+        },
+        "[ ]": {
+            "icon": "$(list-unordered)",
+            "type": "text",
+            "foreground": "gray",
+            "background": "blue",
+            "opacity": 50,
+        },
+        "HiW": {
+            "icon": "$(diff-added)",
+            "type": "text",
+            "foreground": "black",
+            "background": "orange",
+            "opacity": 50,
+        },
+        "WTF": {
+            "icon": "$(diff-added)",
+            "type": "text",
+            "foreground": "gray",
+            "background": "orange",
+            "opacity": 50,
+        },
+        "BUG": {
+            "icon": "$(bug)",
+            "type": "text",
+            "foreground": "black",
+            "background": "yellow"
+        },
+        "FIX": {
+            "icon": "$(flame)",
+            "type": "text",
+            "foreground": "black",
+            "background": "red"
+        },
+        "ADDs": {
+            "icon": "$(diff-added)",
+            "type": "text",
+            "foreground": "black",
+            "background": "green"
+        }
+    },
+    "projectManager.any.ignoredFolders": [
+    
+        "node_modules",
+        "out",
+        "typings",
+        "test"
+    ],
+    "projectManager.any.baseFolders": [
+    
+    ],
+    "mssql.connections": [],
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "JetBrains Mono, Cascadia Code PL, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300",
+    //"gitlens.views.repositories.enabled": true,
+    "jest.enableInlineErrorMessages": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "terminal.integrated.rendererType": "dom",
+    "glassit.alpha": 240,
+    "liveshare.presence": true,
+    "vscodeGoogleTranslate.preferredLanguage": "Russian",
+    "editor.tabSize": 2,
+    "workbench.tree.indent": 15,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "filesize.displayInfoOnTheRightSideOfStatusBar": true,
+    "filesize.showGzip": false,
+    "filesize.useDecimal": true,
+    "todo-tree.filtering.scopes": [
+    "!cwd"
+    ],
+    "todo-tree.highlights.enabled": true,
+    "powershell.powerShellDefaultVersion": "PowerShell (x64)",
+    "editor.minimap.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "colorize.include": [
+
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl"
+    ],
+    "colorize.languages": [
+
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "json"
+    ],
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "Gold",
+            "LightPink",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "workbench.editor.untitled.hint": "hidden",
+    "latex-workshop.view.pdf.viewer": "browser",
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "textMateRules": [
+                {
+                    "scope": "variable.other.readwrite.powershell",
+                    "settings": {
+                        "foreground": "#D3B692"
+                    }
+                },
+                {
+                    "scope": "support.function.powershell",
+                    "settings": {
+                        "foreground": "#72B7C0"
+                    }
+                },
+                {
+                    "scope": "string.quoted.double.powershell",
+                    "settings": {
+                        "foreground": "#72C09F"
+                    }
+                },
+                {
+                    "scope": "string.quoted.double.heredoc.powershell",
+                    "settings": {
+                        "foreground": "#72C09F"
+                    }
+                },
+                {
+                    "scope": "string.quoted.single.heredoc.powershell",
+                    "settings": {
+                        "foreground": "#72C09F"
+                    }
+                },
+                {
+                    "scope": "string.quoted.single.powershell",
+                    "settings": {
+                        "foreground": "#72C09F"
+                    }
+                },
+                {
+                    "scope": "keyword.control.powershell",
+                    "settings": {
+                        "foreground": "#A87084",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "comment.line.powershell",
+                    "settings": {
+                        "foreground": "#5E7887",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "comment.line",
+                    "settings": {
+                        "foreground": "#4a8a4a",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "meta.scriptblock.powershell",
+                    "settings": {
+                        "foreground": "#BE856F",
+                    }
+                },
+                {
+                    "scope": "keyword.operator.comparison.powershell",
+                    "settings": {
+                        "foreground": "#A87084",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "keyword.operator.assignment.powershell",
+                    "settings": {
+                        "foreground": "#A87084",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "source.powershell",
+                    "settings": {
+                        "foreground": "#BE856F"
+                    }
+                }
+            ],
+        },
+    },
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.colorTheme": "Noctis Minimus",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "dashboard.projectData": null,
+
 }

@@ -256,6 +256,7 @@
       "breadcrumbPicker.background": "#202e37",
       "titleBar.activeBackground": "#1b2932",
       "titleBar.activeForeground": "#c5cdd3",
+      "titleBar.border": "#0f1a28",
       "titleBar.inactiveBackground": "#1b2932",
       "titleBar.inactiveForeground": "#96a8b6",
       "menu.background": "#202e37",
