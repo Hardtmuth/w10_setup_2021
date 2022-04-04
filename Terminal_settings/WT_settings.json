@@ -76,20 +76,6 @@
                 "hidden": false,
                 "name": "Ubuntu-20.04",
                 "source": "Windows.Terminal.Wsl"
-            },
-            {
-                "guid": "{98edd980-8671-4312-bbe9-08823a818b57}",
-                "hidden": false,
-                "name": "DEV ENV",
-                "commandline": "ssh aa@192.168.1.36",
-                "icon": "c://tools//dev.ico"
-            },
-            {
-                "guid": "{2c26e995-010f-4650-9c28-0d80fd0bc6af}",
-                "hidden": false,
-                "name": "AT-Monitor",
-                "commandline": "ssh atkom@192.168.1.48",
-                "icon": "c://tools//ssh.ico"
             }
         ]
     },
