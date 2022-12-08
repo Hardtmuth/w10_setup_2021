@@ -33,16 +33,18 @@
       "statusBar.foreground": "#496d83",
       "statusBar.background": "#1b2932",
       "statusBar.border": "#101213",
+      "statusBar.focusBorder": "#101213",
       "statusBar.debuggingBackground": "#1b2932",
       "statusBar.debuggingForeground": "#d2799850",
       "statusBar.debuggingBorder": "#d27998af",
       "statusBar.noFolderForeground": "#98a6ae",
       "statusBar.noFolderBackground": "#1b2932",
-      "statusBar.noFolderBorder": "#1b2932",
+      "statusBar.noFolderBorder": "#101213",
       "statusBarItem.activeBackground": "#3d708f66",
       "statusBarItem.hoverBackground": "#243742",
       "statusBarItem.prominentBackground": "#152128",
       "statusBarItem.prominentHoverBackground": "#102837",
+      "statusBarItem.focusBorder": "#101213",
       "button.background": "#2e616b",
       "button.foreground": "#ebf7ff",
       "button.hoverBackground": "#3d818f",
@@ -526,6 +528,7 @@
             "source.powershell"
             
             
+            
          ],
          "settings": {
             "foreground": "#be856f"
@@ -567,6 +570,7 @@
             "entity.other.attribute-name.mjml",
             "source.vue meta.directive punctuation.separator.key-value",
             "meta.definition.attribute-entry punctuation.separator"
+            
             
          ],
          "settings": {
@@ -753,7 +757,8 @@
             "keyword.language.gherkin.feature.scenario",
             "source.nim keyword.other.common.function",
             "entity.name.type.namespace",
-            "entity.name.scope-resolution.function.call"
+            "entity.name.scope-resolution.function.call",
+            "source.powershell support.type.powershell"
             
          ],
          "settings": {
